@@ -1,0 +1,20 @@
+[
+  {
+    "id": "aedf89ee-460a-4bb5-9431-8ea48010c2fb",
+    "title": "Auriculares",
+    "price": 1509,
+    "stock": 5
+  },
+  {
+    "id": "aaf2eeaa-ce77-4d70-8e3d-6f3f7623e05f",
+    "title": "Mouse",
+    "price": 1750,
+    "stock": 12
+  },
+  {
+    "id": "2f96c03c-9747-4379-8a3c-90d95f5d0852",
+    "title": "Webcam",
+    "price": 1600,
+    "stock": 12
+  }
+]
